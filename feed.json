@@ -1,0 +1,720 @@
+{
+    "sources-rss": [
+        {
+            "url": "https://devblogs.microsoft.com/cppblog/feed/",
+            "title": "C++ Team Blog"
+        },
+        {
+            "url": "https://code.facebook.com/posts/rss",
+            "title": "Facebook Engineering"
+        },
+        {
+            "url": "http://code.google.com/feeds/updates.xml",
+            "title": "Google Developers "
+        },
+        {
+            "url": "http://www.ebaytechblog.com/feed/",
+            "title": "eBay Tech Blog"
+        },
+        {
+            "url": "http://feeds.feedburner.com/TwitterBlog",
+            "title": "Twitter Blog"
+        },
+        {
+            "url": "https://medium.com/feed/netflix-techblog",
+            "title": "Netflix TechBlog"
+        },
+        {
+            "url": "https://blog.jetbrains.com/feed/",
+            "title": "JetBrains: Developer Tools for Professionals and Teams – Company Blog | JetBrains"
+        },
+        {
+            "url": "https://engineering.linkedin.com/blog.rss",
+            "title": "LinkedIn Engineering"
+        },
+        {
+            "url": "https://medium.com/feed/airbnb-engineering",
+            "title": "Airbnb Engineering & Data Science"
+        },
+        {
+            "url": "https://developer.amazon.com/blogs/home/feed/entries/atom",
+            "title": "Amazon Developer Blogs"
+        },
+        {
+            "url": "http://instagram-engineering.tumblr.com/rss",
+            "title": "Instagram Engineering"
+        },
+        {
+            "url": "https://medium.com/feed/paypal-engineering",
+            "title": "PayPal Engineering"
+        },
+        {
+            "url": "https://techcommunity.microsoft.com/gxcuf89792/rss/message?board.id=PlannerBlog&message.id=200",
+            "title": "article New updates to Planner comment notifications and settings in Planner Blog"
+        },
+        {
+            "url": "https://devblogs.microsoft.com/visualstudio/feed/",
+            "title": "Visual Studio Blog"
+        },
+        {
+            "url": "https://instagram-engineering.com/feed",
+            "title": "Instagram Engineering"
+        },
+        {
+            "url": "https://blogs.dropbox.com/tech/feed/",
+            "title": "Dropbox Tech Blog"
+        },
+        {
+            "url": "https://joshua1988.github.io/atom.xml",
+            "title": "Captain Pangyo - Articles"
+        },
+        {
+            "url": "http://dataninja.me/feed.xml",
+            "title": "권재명"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@ERG",
+            "title": "김석기"
+        },
+        {
+            "url": "http://sunyzero.tistory.com/rss",
+            "title": "김선영"
+        },
+        {
+            "url": "http://jinhokwon.tistory.com/rss",
+            "title": "권진호"
+        },
+        {
+            "url": "http://charsyam.wordpress.com/feed/",
+            "title": "강대명"
+        },
+        {
+            "url": "http://xguru.net/feed",
+            "title": "권정혁"
+        },
+        {
+            "url": "https://wckhg89.github.io/feed.xml",
+            "title": "강홍구"
+        },
+        {
+            "url": "http://nolsigan.github.io/feed.xml",
+            "title": "김범준"
+        },
+        {
+            "url": "https://subokim.wordpress.com/feed/",
+            "title": "김수보"
+        },
+        {
+            "url": "http://rss.egloos.com/blog/himskim",
+            "title": "김명신"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@2MrI",
+            "title": "김시은"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@YZF",
+            "title": "곽민수"
+        },
+        {
+            "url": "https://medium.com/feed/@beejei",
+            "title": "김범진"
+        },
+        {
+            "url": "http://blog.rss.naver.com/mseokim011117.xml",
+            "title": "김민서"
+        },
+        {
+            "url": "https://iamnotokay.tistory.com/rss",
+            "title": "I am not Okay"
+        },
+        {
+            "url": "http://thoughts.chkwon.net/feed/",
+            "title": "권창현"
+        },
+        {
+            "url": "http://kwongyo.tistory.com/rss",
+            "title": "권기호"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@PUo",
+            "title": "김수민"
+        },
+        {
+            "url": "http://daddynkidsmakers.blogspot.com/feeds/posts/default",
+            "title": "강태욱"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@H9i",
+            "title": "권용진"
+        },
+        {
+            "url": "http://blog.nacyot.com/feed.xml",
+            "title": "김대권"
+        },
+        {
+            "url": "https://nesoy.github.io/atom.xml",
+            "title": "권영재"
+        },
+        {
+            "url": "http://alwayspr.tistory.com/rss",
+            "title": "김민수"
+        },
+        {
+            "url": "http://raccoonyy.github.io/rss/index.rss",
+            "title": "김승호"
+        },
+        {
+            "url": "https://kingbbode.github.io/feed.xml",
+            "title": "권용근"
+        },
+        {
+            "url": "http://kimbyeonghwan.tumblr.com/rss",
+            "title": "김병환"
+        },
+        {
+            "url": "https://rss.blog.naver.com/boyism.xml",
+            "title": "RSS feed for boyism Blog"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@20dR",
+            "title": "김성준의 린스타트업과 디자인씽킹"
+        },
+        {
+            "url": "https://medium.com/feed/@khwsc1",
+            "title": "권혁우"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@1fY0",
+            "title": "강동혁"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@24SO",
+            "title": "고종범"
+        },
+        {
+            "url": "https://cheese10yun.github.io/feed.xml",
+            "title": "김남윤"
+        },
+        {
+            "url": "http://forest71.tistory.com/rss",
+            "title": "구자철"
+        },
+        {
+            "url": "https://oraora.tistory.com/rss",
+            "title": "FSS"
+        },
+        {
+            "url": "https://mayajuni.github.io/feed.xml",
+            "title": "권동준"
+        },
+        {
+            "url": "http://app-developer.tistory.com/rss",
+            "title": "김용일"
+        },
+        {
+            "url": "http://seokjun.kr/rss/",
+            "title": "김석준"
+        },
+        {
+            "url": "http://www.dokyun.pe.kr/rss",
+            "title": "김도균"
+        },
+        {
+            "url": "http://hhko.tistory.com/rss",
+            "title": "고형호"
+        },
+        {
+            "url": "http://interpiler.com/index.php/feed/",
+            "title": "김상훈"
+        },
+        {
+            "url": "https://feeds.feedburner.com/firejune",
+            "title": "경준호"
+        },
+        {
+            "url": "https://brunch.co.kr/atom/@@O1Z",
+            "title": "김민석"
+        },
+        {
+            "url": "https://dongwoo.blog/feed/",
+            "title": "김동우"
+        },
+        {
+            "url": "http://web-front-end.tistory.com/rss",
+            "title": "권윤학"
+        },
+        {
+            "url": "https://velopert.com/feed",
+            "title": "김민준"
+        },
+        {
+            "url": "https://medium.com/feed/@devholic",
+            "title": "강성훈"
+        },
+        {
+            "url": "https://mansoo-sw.blogspot.com/feeds/posts/default",
+            "title": "김만수"
+        },
+        {
+            "url": "https://elky84.github.io/feed.xml",
+            "title": "김성훈"
+        },
+        {
+            "url": "http://thdev.tech/feed.xml",
+            "title": "권태환"
+        },
+        {
+            "url": "http://bomjun.tistory.com/rss",
+            "title": "김범준"
+        },
+        {
+            "url": "http://shiren.github.io/feed.xml",
+            "title": "김성호"
+        },
+        {
+            "url": "http://blog.seulgi.kim/feeds/posts/default",
+            "title": "김슬기"
+        },
+        {
+            "url": "https://kwang82.blogspot.com/feeds/posts/default",
+            "title": "김광현(광파리)"
+        },
+        {
+            "url": "http://sungbine.github.io/feed.xml",
+            "title": "김성빈"
+        },
+        {
+            "url": "http://datajournal.kr/feed/",
+            "title": "김영우"
+        },
+        {
+            "url": "http://kangmyounghun.blogspot.com/feeds/posts/default",
+            "title": "강명훈"
+        },
+        {
+            "url": "http://feeds.feedburner.com/theyearlyprophet/GGGO",
+            "title": "구종만"
+        },
+        {
+            "url": "https://b.luavis.kr/feed.xml",
+            "title": "강성일"
+        },
+        {
+            "url": "http://minjang.github.io/feed.xml",
+            "title": "김민장"
+        },
+        {
+            "url": "http://rss.egloos.com/blog/kwon37xi",
+            "title": "권남"
+        },
+        {
+            "url": "http://mingeun.com/feed",
+            "title": "김민근"
+        },
+        {
+            "url": "http://insanehong.kr/rss.xml",
+            "title": "김덕홍"
+        },
+        {
+            "url": "http://sungjk.github.io/feed.xml",
+            "title": "김성중"
+        },
+        {
+            "url": "http://danielku.com/atom.xml",
+            "title": "구교준"
+        },
+        {
+            "url": "http://martian36.tistory.com/rss",
+            "title": "김덕기"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@LOc",
+            "title": "고명환"
+        },
+        {
+            "url": "https://medium.com/feed/@shaynekang",
+            "title": "강성희"
+        },
+        {
+            "url": "http://j.mearie.org/rss",
+            "title": "강성훈"
+        },
+        {
+            "url": "http://wookje.github.io/rss/",
+            "title": "권욱제"
+        },
+        {
+            "url": "http://blog.hatemogi.com/rss",
+            "title": "김대현"
+        },
+        {
+            "url": "https://01010011.blog/feed/",
+            "title": "강병수"
+        },
+        {
+            "url": "https://harfangk.github.io/feed.xml",
+            "title": "김봉현"
+        },
+        {
+            "url": "https://hskang9.github.io/feed.xml",
+            "title": "강형석"
+        },
+        {
+            "url": "http://babysunmoon.tistory.com/rss",
+            "title": "김수로"
+        },
+        {
+            "url": "http://minieetea.com/feed",
+            "title": "강미경"
+        },
+        {
+            "url": "http://greemate.tistory.com/rss",
+            "title": "김성현"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@3Y0",
+            "title": "강진우"
+        },
+        {
+            "url": "https://mingrammer.com/index.xml",
+            "title": "권민재"
+        },
+        {
+            "url": "https://taetaetae.github.io/atom.xml",
+            "title": "권태관"
+        },
+        {
+            "url": "http://dokonk.blogspot.com/feeds/posts/default",
+            "title": "김도곤"
+        },
+        {
+            "url": "http://keyassist.tistory.com/rss",
+            "title": "김영웅"
+        },
+        {
+            "url": "https://rss.blog.naver.com/lbs0718.xml",
+            "title": "칡토스의 게임 개발"
+        },
+        {
+            "url": "http://blog.rss.naver.com/sckim007.xml",
+            "title": "김선철"
+        },
+        {
+            "url": "https://nolboo.kim/feed.xml",
+            "title": "김놀부"
+        },
+        {
+            "url": "https://rss.blog.naver.com/clauds.xml",
+            "title": "아이티카노(IT Car Know)"
+        },
+        {
+            "url": "http://rss.egloos.com/blog/isao76",
+            "title": "isao의 IT,게임번역소"
+        },
+        {
+            "url": "http://blog.lael.be/feed",
+            "title": "Lael's World"
+        },
+        {
+            "url": "http://muzbox.tistory.com/rss",
+            "title": "프리웨어 이야기"
+        },
+        {
+            "url": "http://chauchau0.tistory.com/rss",
+            "title": "동우리의 블로그"
+        },
+        {
+            "url": "http://www.hatena.co.kr/rss",
+            "title": "하테나"
+        },
+        {
+            "url": "http://feeds.feedburner.com/lazion",
+            "title": "늑돌이네 라지온"
+        },
+        {
+            "url": "http://bbs.ruliweb.com/news/board/11/rss",
+            "title": "루리웹 - 루리웹 리뷰 게시판"
+        },
+        {
+            "url": "https://brunch.co.kr/rss/@@34qN",
+            "title": "Reasontobe"
+        },
+        {
+            "url": "http://crazytigerlife.tistory.com/rss",
+            "title": "자유로운 생활"
+        },
+        {
+            "url": "http://estima.wordpress.com/feed/",
+            "title": "에스티마의 인터넷이야기 EstimaStory.com"
+        },
+        {
+            "url": "http://sacstory.tistory.com/rss",
+            "title": "나긋한 개발 - 데비안 리눅스와 프로그램 언어"
+        },
+        {
+            "url": "http://blog.leekyoungil.com/?feed=rss2",
+            "title": "Kyoungil's Blog"
+        },
+        {
+            "url": "http://mygony.com/feed",
+            "title": "코드쓰는사람"
+        },
+        {
+            "url": "http://blog.rss.naver.com/laster40.xml",
+            "title": "일상을 여행처럼..."
+        },
+        {
+            "url": "http://khrislog.net/rss",
+            "title": "khris'log"
+        },
+        {
+            "url": "http://feedproxy.google.com/rickstrahl",
+            "title": "Rick Strahl's Web Log"
+        },
+        {
+            "url": "http://justhackem.wordpress.com/feed/",
+            "title": "Just hack'em"
+        },
+        {
+            "url": "http://feeds.feedburner.com/CppTruths",
+            "title": "C++ Truths"
+        },
+        {
+            "url": "https://jacking75.github.io/feed.xml",
+            "title": "jacking75"
+        },
+        {
+            "url": "http://www.joelonsoftware.com/rss.xml",
+            "title": "Joel on Software"
+        },
+        {
+            "url": "http://feeds.feedburner.com/crazytazo",
+            "title": "벤자민로그"
+        },
+        {
+            "url": "http://blog.xcoda.net/rss",
+            "title": "악보쓰는 프로그래머"
+        },
+        {
+            "url": "http://jeremyko.blogspot.com/feeds/posts/default",
+            "title": "쭌안아빠"
+        },
+        {
+            "url": "http://aker.tistory.com/rss",
+            "title": "A Gangster World"
+        },
+        {
+            "url": "http://luckyyowu.tistory.com/rss",
+            "title": "요우의 내맘대로 블로그"
+        },
+        {
+            "url": "http://blog.gaerae.com/feeds/posts/default",
+            "title": "개발자스럽다"
+        },
+        {
+            "url": "http://rss.egloos.com/blog/oniondev",
+            "title": "양파개발자 Sw의 블로그입니다^^"
+        },
+        {
+            "url": "http://blog.rss.naver.com/crisious.xml",
+            "title": "Against All Odds."
+        },
+        {
+            "url": "http://rss.egloos.com/blog/parkpd",
+            "title": "박피디의 게임 개발 이야기"
+        },
+        {
+            "url": "http://blog.rss.naver.com/gal_yong.xml",
+            "title": "움직이는 게임서버"
+        },
+        {
+            "url": "http://feeds.feedburner.com/sangwook",
+            "title": "이상욱"
+        },
+        {
+            "url": "http://blog.rss.naver.com/arcangeleri.xml",
+            "title": "개발자"
+        },
+        {
+            "url": "https://zzsza.github.io/feed.xml",
+            "title": "어쩐지 오늘은"
+        },
+        {
+            "url": "https://oddpoet.net/feed.xml",
+            "title": "oddpoet’s étude"
+        },
+        {
+            "url": "http://agile.egloos.com/index.xml",
+            "title": "애자일 이야기"
+        },
+        {
+            "url": "https://snutiise.github.io/feed.xml",
+            "title": "0x00 - NULL"
+        },
+        {
+            "url": "http://serverdown.tistory.com/rss",
+            "title": "퇴근 후 서버다운"
+        },
+        {
+            "url": "https://coolspeed.wordpress.com/feed/",
+            "title": "coolspeed"
+        },
+        {
+            "url": "https://perfectacle.github.io/atom.xml",
+            "title": "오늘도 끄적끄적"
+        },
+        {
+            "url": "http://blog.rss.naver.com/sorkelf.xml",
+            "title": "dx11 Vanica's Lifelog - 夢が夢で終わらないように"
+        },
+        {
+            "url": "http://arcangeleri.tistory.com/rss",
+            "title": "초코사랑"
+        },
+        {
+            "url": "https://www.zerocho.com/api/rss.xml",
+            "title": "ZeroCho Blog"
+        },
+        {
+            "url": "http://hybrid0.tumblr.com/rss",
+            "title": "Hybrid's Notes"
+        },
+        {
+            "url": "https://libsora.so/index.xml",
+            "title": "/usr/lib/libsora.so on /usr/lib/libsora.so"
+        },
+        {
+            "url": "http://rss.egloos.com/blog/Agbird",
+            "title": "gimmesilver's blog"
+        },
+        {
+            "url": "http://blog.rss.naver.com/imays.xml",
+            "title": "imays게임엔진개발자"
+        },
+        {
+            "url": "https://rss.blog.naver.com/hurinmon.xml",
+            "title": "RSS feed for hurinmon Blog"
+        },
+        {
+            "url": "http://mgun.tistory.com/rss",
+            "title": "꽃 피는 봄이 오면..."
+        },
+        {
+            "url": "http://jojoldu.tistory.com/rss",
+            "title": "기억보단 기록을"
+        },
+        {
+            "url": "http://westwoodforever.blogspot.com/feeds/posts/default",
+            "title": "WestwoodForever's Dev Log"
+        },
+        {
+            "url": "http://java.ihoney.pe.kr/rss",
+            "title": "허니몬(Honeymon)의 자바guru"
+        },
+        {
+            "url": "http://honsal.blogspot.kr/feeds/posts/default?alt=rss",
+            "title": "Wolf Loves Fox :: 일상"
+        },
+        {
+            "url": "http://lunapiece.net/Article/rss",
+            "title": "Moon with C++ Programmer"
+        },
+        {
+            "url": "http://kindtis.tistory.com/rss",
+            "title": "Game Programmer Life"
+        },
+        {
+            "url": "https://10yearscoder.tistory.com/rss",
+            "title": "IT 프리랜서 이야기"
+        },
+        {
+            "url": "http://whiteship.me/?feed=rss2",
+            "title": "Whiteship's Epril"
+        },
+        {
+            "url": "https://megayuchi.wordpress.com/feed/",
+            "title": "yuchi's dev"
+        },
+        {
+            "url": "https://joone.net/feed/",
+            "title": "만화로 나누는 자유/오픈소스 소프트웨어 이야기"
+        },
+        {
+            "url": "http://hyeonseok.com/rss/",
+            "title": "신현석(Hyeonseok Shin)"
+        },
+        {
+            "url": "http://www.sangkon.com/rss/",
+            "title": "Sigmadream"
+        },
+        {
+            "url": "https://woolbro.tistory.com/feed/",
+            "title": "개발자 울이 노트"
+        },
+        {
+            "url": "http://blog.rss.naver.com/dlehddus84.xml",
+            "title": "즐거운 개발자 :: 네이버  블로그"
+        },
+        {
+            "url": "http://blog.rss.naver.com/kimbeast.xml",
+            "title": "황제펭귄의 게임개발이야기 [여기는 한국]"
+        },
+        {
+            "url": "https://engineering.linecorp.com/ko/blog/rss2",
+            "title": "LINE ENGINEERING"
+        },
+        {
+            "url": "http://d2.naver.com/d2.atom",
+            "title": "D2 Blog"
+        },
+        {
+            "url": "https://blog.banksalad.com/rss.xml",
+            "title": "뱅크샐러드 블로그"
+        },
+        {
+            "url": "http://woowabros.github.io/feed.xml",
+            "title": "우아한형제들 기술 블로그"
+        },
+        {
+            "url": "http://tmondev.blog.me/rss",
+            "title": "티몬의 개발이야기"
+        },
+        {
+            "url": "https://meetup.toast.com/rss",
+            "title": "TOAST Meetup"
+        },
+        {
+            "url": "http://we.weirdmeetup.com/feed/",
+            "title": "이상한모임"
+        },
+        {
+            "url": "https://zuminternet.github.io/feed.xml",
+            "title": "ZUM 기술 블로그"
+        },
+        {
+            "url": "https://tech.peoplefund.co.kr/feed.xml",
+            "title": "Peoplefund Tech"
+        },
+        {
+            "url": "http://tech.kakao.com/rss/",
+            "title": "tech.kakao.com"
+        },
+        {
+            "url": "https://tech.lezhin.com/rss",
+            "title": "레진 기술 블로그"
+        },
+        {
+            "url": "http://feeds.feedburner.com/skpreadme",
+            "title": "README"
+        },
+        {
+            "url": "http://spoqa.github.com/atom.xml",
+            "title": "Spoqa tech blog"
+        },
+        {
+            "url": "https://rss.blog.naver.com/teamwaldo.xml",
+            "title": "팀 왈도 번역팀"
+        }
+    ]
+}
